@@ -1,1 +1,1 @@
- web: gunicorn <grammer_mistake>:<grammer_mistake>
+ web: gunicorn <grammer_mistake>:<grammer-mistake>
